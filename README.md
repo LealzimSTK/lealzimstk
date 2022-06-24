@@ -23,7 +23,6 @@
 <img src="https://img.shields.io/badge/Intel-Core_xeon-0071C5?style=for-the-badge&logo=intel&logoColor=white" target="_blank"></a> 
   <a href="https://www.youtube.com/channel/UC8dB_0uWiXCE-ihnthhGu8w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
   <a href="https://www.instagram.com/lealziimstk/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/PN2x6b5qmk" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <img src="https://img.shields.io/badge/NVIDIA-GTX750ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white" target="_blank">
 
