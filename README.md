@@ -1,3 +1,4 @@
+![Shadir's GitHub Banner](https://cdn.discordapp.com/attachments/1104407393527414845/1159144961674068071/66923.jpg?ex=651ed15e&is=651d7fde&hm=6d0b8dc69a1ef988a8230d2ea93bf45bb8ac51e45eb090ad3cff4525ff728974&)
 <a href="https://komarev.com/ghpvc/?username=alsiam">
   <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
