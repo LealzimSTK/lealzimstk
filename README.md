@@ -1,91 +1,123 @@
-<h1 align="center">Olá, eu sou Leal 👋</h1>
+<div align="center">
 
-<h3 align="center">💻 Desenvolvedor Back-end Júnior | Node.js • JavaScript • Python • SQL</h3>
+# 👋 Olá, eu sou o Leal!
 
-<p align="center">
-  Apaixonado por tecnologia, desenvolvimento de software e resolução de problemas.
-  Busco criar aplicações eficientes, escaláveis e bem estruturadas, sempre aprendendo novas tecnologias e boas práticas de desenvolvimento.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=800&center=true&vCenter=true&width=800&lines=Desenvolvedor+Back-end+Júnior;Node.js+%7C+JavaScript+%7C+Python;Construindo+APIs+e+soluções+escaláveis;Sempre+aprendendo+algo+novo+🚀" alt="Typing SVG" />
 
----
-
-## 🚀 Sobre mim
-
-- 💼 Desenvolvedor Back-end Júnior
-- 🌱 Atualmente aprimorando conhecimentos em arquitetura de software e APIs REST
-- ⚡ Foco em desenvolvimento com Node.js
-- 📚 Sempre estudando novas tecnologias
-- 🎯 Objetivo: Evoluir para Desenvolvedor Back-end Pleno
+</div>
 
 ---
 
-## 🛠️ Tecnologias
+## 💻 Sobre mim
 
-### Linguagens
+Sou **Desenvolvedor Back-end Júnior**, apaixonado por tecnologia e desenvolvimento de software.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,python" />
-</p>
+Atualmente estudo e desenvolvo projetos focados em:
 
-### Banco de Dados
+- 🚀 Desenvolvimento de APIs REST
+- ⚙️ Node.js
+- 🐍 Python
+- 🗄️ SQL
+- 🐧 Linux
+- 🔥 Boas práticas de desenvolvimento
+- 📚 Aprendizado contínuo
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### Ferramentas
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
-</p>
+Sempre buscando escrever código limpo, escalável e de fácil manutenção.
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Tecnologias
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=nodejs,js,python,mysql,git,github,vscode,linux,postman&perline=5"/>
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
-</p>
+</div>
 
 ---
 
-## 📈 Atividade
+# 📊 Estatísticas
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night"/>
-</p>
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=LealzimSTK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LealzimSTK&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-## 🤝 Vamos nos conectar
+# 🔥 Sequência de Contribuições
 
-<p align="left">
+<div align="center">
 
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://streak-stats.demolab.com?user=LealzimSTK&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Gráfico de Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LealzimSTK&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=LealzimSTK&theme=tokyonight&margin-w=10&no-frame=true&column=4"/>
+
+</div>
+
+---
+
+# 🐍 Contribuições
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/LealzimSTK/LealzimSTK/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+> ⚠️ Para a cobra funcionar é necessário configurar um GitHub Action. O workflow está logo abaixo.
+
+---
+
+# 📫 Contato
+
+<div align="center">
+
+<a href="https://github.com/LealzimSTK">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue&style=flat-square" />
-</p>
+# ☕ Atualmente estudando
 
-<p align="center">
-⭐ Obrigado por visitar meu perfil!
-</p>
+- Node.js
+- JavaScript Moderno (ES6+)
+- Python
+- SQL
+- APIs REST
+- Git e GitHub
+- Arquitetura Back-end
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=LealzimSTK&color=blueviolet&style=for-the-badge)
+
+### ⭐ Obrigado por visitar meu perfil!
+
+</div>
