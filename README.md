@@ -54,17 +54,6 @@ Sempre buscando escrever código limpo, escalável e de fácil manutenção.
 
 ---
 
-# 🐍 Contribuições
-
-<div align="center">
-
-![snake animation](https://github.com/LealzimSTK/LealzimSTK/blob/output/github-contribution-grid-snake2.svg)
-
-</div>
-
-
----
-
 # 📫 Contato
 
 <div align="center">
@@ -86,13 +75,3 @@ Sempre buscando escrever código limpo, escalável e de fácil manutenção.
 - APIs REST
 - Git e GitHub
 - Arquitetura Back-end
-
----
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=LealzimSTK&color=blueviolet&style=for-the-badge)
-
-### ⭐ Obrigado por visitar meu perfil!
-
-</div>
