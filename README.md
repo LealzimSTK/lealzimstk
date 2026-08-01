@@ -58,11 +58,10 @@ Sempre buscando escrever código limpo, escalável e de fácil manutenção.
 
 <div align="center">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/snake-output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/LealzimSTK/LealzimSTK/blob/output/github-contribution-grid-snake2.svg)
 
 </div>
 
-> ⚠️ Para a cobra funcionar é necessário configurar um GitHub Action. O workflow está logo abaixo.
 
 ---
 
