@@ -34,18 +34,6 @@ Sempre buscando escrever código limpo, escalável e de fácil manutenção.
 
 ---
 
-# 📊 Estatísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LealzimSTK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LealzimSTK&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 🔥 Sequência de Contribuições
 
 <div align="center">
@@ -66,21 +54,11 @@ Sempre buscando escrever código limpo, escalável e de fácil manutenção.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=LealzimSTK&theme=tokyonight&margin-w=10&no-frame=true&column=4"/>
-
-</div>
-
----
-
 # 🐍 Contribuições
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/LealzimSTK/LealzimSTK/output/github-contribution-grid-snake-dark.svg"/>
+<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/snake-output/snake.svg" alt="Snake animation" />
 
 </div>
 
