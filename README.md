@@ -1,8 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Leal!
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=800&center=true&vCenter=true&width=800&lines=Desenvolvedor+Back-end+Júnior;Node.js+%7C+JavaScript+%7C+Python;Construindo+APIs+e+soluções+escaláveis;Sempre+aprendendo+algo+novo+🚀" alt="Typing SVG" />
+# 👋 Olá, eu sou o Wayne!
 
 </div>
 
